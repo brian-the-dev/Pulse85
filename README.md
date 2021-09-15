@@ -1,10 +1,11 @@
 # Pulse85
-Pulse85 is an open-source and portable heart rate monitor powered by PulseSensor and Digispark ATtiny85. Currently, the app is only available for Android smartphones.
+![](https://user-images.githubusercontent.com/40331046/133422289-e5d28d87-3777-4d0c-80c4-3bacbda1379d.png)
 
 ## Features
 - Lightweight (~4 grams)
 - No batteries required
 - Very affordable
+- Android app (Linux and Windows are on the roadmap)
 
 ## How To Make Your Own Pulse85
 You'll need a PulseSensor, a Digispark, some jumper wires, and soldering tools.
