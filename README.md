@@ -19,8 +19,10 @@ You'll need a PulseSensor, a Digispark, some jumper wires, and soldering tools.
 
 ## Roadmap
 - [X] Basic functionality (heart rate and PPG graph)
+- [ ] App settings (set threshold, graph settings, etc)
 - [ ] Get a unique USB VID/PID
 - [ ] Cross-platform support (Linux and Windows are prioritized)
+- [ ] Design a PCB to further reduce size
 
 ## License
 All source code (both software and hardware) is licensed under MIT license. The documentation and images are licensed under Creative Commons Attribution 4.0.
