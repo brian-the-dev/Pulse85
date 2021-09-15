@@ -25,4 +25,4 @@ You'll need a PulseSensor, a Digispark, some jumper wires, and soldering tools.
 - [ ] Design a PCB to further reduce size
 
 ## License
-All source code (both software and hardware) is licensed under MIT license. The documentation, schematic, and images are licensed under Creative Commons Attribution 4.0.
+All source code (both software and hardware) is licensed under MIT license. The documentation, schematic, and images are licensed under Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0).
