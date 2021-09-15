@@ -11,7 +11,7 @@
 You'll need a PulseSensor, a Digispark, some jumper wires, and soldering tools.
 
 1. If your PulseSensor comes with the jumper wires soldered, cut them about 2 cm from the PulseSensor. Otherwise, solder three wires (about 2 cm each) for each pin (+, -, and S).
-2. Solder the wires to the Digispark according to the schematics.
+2. Solder the wires to the Digispark according to the [schematic](https://github.com/brian-the-dev/Pulse85/blob/main/hardware/schematic.png).
 3. Make a sleeve out of leather to protect your Pulse85. (Optional)
 4. Follow the instructions on Digistump's [wiki](http://digistump.com/wiki/digispark/tutorials/connecting) to set up your Arduino IDE.
 5. Upload the code (`hardware/sketch.ino`) to your Digispark.
