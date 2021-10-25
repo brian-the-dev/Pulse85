@@ -19,8 +19,8 @@ You'll need a PulseSensor, a Digispark, some jumper wires, and soldering tools.
 
 ## Roadmap
 - [X] Basic functionality (heart rate and PPG graph)
+- [X] Get a unique USB VID/PID ([1209:5385](https://pid.codes/1209/5385/))
 - [ ] App settings (set threshold, graph settings, etc)
-- [ ] Get a unique USB VID/PID
 - [ ] Cross-platform support (Linux and Windows are prioritized)
 - [ ] Design a PCB to further reduce size
 
